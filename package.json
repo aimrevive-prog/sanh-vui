@@ -1,0 +1,13 @@
+{
+  "name": "sanh-vui-casino",
+  "version": "2.3.0",
+  "description": "Sảnh Vui — casino giải trí ảo: Tài Xỉu, Xóc Đĩa, Bầu Cua, Mini Poker (Node.js thuần, không dependency)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
